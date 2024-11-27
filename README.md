@@ -9,7 +9,7 @@ This repository contains a pre-configured **driver archive** for use with the **
 - Access to the required driver archive (`.zip` or `.pex` file).
 - This repository cloned or downloaded to your local environment.
 
-### Importing the Driver Archive
+### Importing the Driver Archive ##
 
 1. **Open MCUXpresso IDE**:
    - Launch the IDE and navigate to your workspace.
